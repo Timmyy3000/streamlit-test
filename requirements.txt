@@ -1,4 +1,7 @@
-streamlit
-streamlit_drawable_canvas
+-f https://download.pytorch.org/whl/torch_stable.html
+streamlit==0.66.0
+streamlit-drawable-canvas==0.3.0
+torch==1.6.0+cpu
+torchvision==0.7.0+cpu
 dataclasses
 opencv-python-headless
